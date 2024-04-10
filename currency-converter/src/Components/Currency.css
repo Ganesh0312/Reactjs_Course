@@ -1,0 +1,45 @@
+.converter-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .amount-input {
+    width: 80px;
+    margin-right: 10px;
+  }
+  
+  .currency-select {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .to-text {
+    margin-right: 10px;
+  }
+  
+  .convert-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .convert-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result-text {
+    margin-top: 10px;
+  }
+  
